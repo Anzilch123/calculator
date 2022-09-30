@@ -1,0 +1,17 @@
+.col{
+    border-style: solid;
+    
+  border-color: black;
+  width: 24%;
+  height: 620px;
+  border-radius: 10%;
+  
+}
+
+#result{
+width: 280px;
+height: 70px;
+margin-top: 20px;
+background-color: rgb(245, 245, 245);
+}
+
